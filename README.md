@@ -12,7 +12,7 @@ Site institucional para empresa especializada em RH
 
 > Contatos
 
-# **• Contato**
+# **• Homepage**
 
 ![rh-1](https://user-images.githubusercontent.com/40843169/66369061-2c943f00-e971-11e9-9b90-15c4a89614bd.png)
 
